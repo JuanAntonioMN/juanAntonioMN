@@ -20,7 +20,6 @@ Bienvenido a mi perfil de GitHub. Soy **Ingeniero en Sistemas Computacionales** 
 - [data-scientific-](https://github.com/JuanAntonioMN/data-scientific-): Experimentos y notebooks de ciencia de datos.
 - [terminal-yt-dlp](https://github.com/JuanAntonioMN/terminal-yt-dlp): Herramienta terminal para descargar vídeos con yt-dlp.
 - [obsidian](https://github.com/JuanAntonioMN/obsidian): Personalización y recursos para Obsidian.
-- [la-chica-de-la-flores](https://github.com/JuanAntonioMN/la-chica-de-la-flores): Proyecto creativo y experimental.
 - [juanAntonioMN](https://github.com/JuanAntonioMN/juanAntonioMN): Mi espacio personal en GitHub.
 
 ## 📇 Contacto y redes
